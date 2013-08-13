@@ -1,5 +1,5 @@
 /**
- * General object
+ * General object that will represent a union-find data structure.
  * @author muhammad
  *
  */
