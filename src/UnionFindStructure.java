@@ -1,4 +1,8 @@
-
+/**
+ * General object
+ * @author muhammad
+ *
+ */
 public interface UnionFindStructure {
 
 	public UFConnectedComponent find(UnionFindNode node);
